@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+IDFM - Pictogrammes.ai
+PRESCRIPTIONS 5.0 - v8.pdf
